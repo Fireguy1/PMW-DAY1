@@ -51,5 +51,4 @@ To view the portfolio locally:
 - [x] Create the `PMW-day1` repository
 - [x] Build a polished, semantic `index.html` portfolio page
 - [x] Write a standout `README.md` detailing the PMW Track build
-- [ ] Deploy via GitHub Pages (Optional / Bonus)
-- [ ] Submit repository link for review
+- [x] Submit repository link for review
