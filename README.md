@@ -1,4 +1,4 @@
-# Portfolio Website - PMW Track
+# Portfolio Website - PMW Track AI-Based 3D Scene Reconstruction 
 
 Welcome to my portfolio repository! This project showcases my skills, interests, and background as a Data Science student specializing in AI, systems programming, and full-stack development.
 
