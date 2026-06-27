@@ -1,54 +1,72 @@
-# Portfolio Website - PMW Track AI-Based 3D Scene Reconstruction 
+# 🌐 AI-Based 3D Scene Reconstruction Portfolio | PMW Track
 
-Welcome to my portfolio repository! This project showcases my skills, interests, and background as a Data Science student specializing in AI, systems programming, and full-stack development.
+Welcome to my portfolio repository! This project showcases my engineering journey, technical skills, and academic background as a Data Science student specializing in AI, systems programming, and full-stack development. 
 
-## 🛠️ What You Built Today
-
-Today, I built a polished, modern, and completely responsive **Personal Portfolio Webpage (`index.html`)**. 
-
-* **Integrated Profile & Background:** Highlighted my journey as a first-year Data Science student at FAST NUCES.
-* **Showcased Core Projects:** Documented key engineering milestones including a Physical AI Smart Dustbin, the UniSpace Booking System, a Parallel CSV Parser, and an IoT Study Buddy tracker.
-* **Clean UI/UX Design:** Implemented a modern dark-themed CSS layout designed for clean semantic structuring and high readability.
+This repository houses a polished, modern, and completely responsive personal portfolio webpage (`index.html`) built during the PMW Track.
 
 ---
 
-## 🚀 About Me
+## 🚀 Project Overview
 
-I am a first-year Data Science student at FAST NUCES Islamabad. I have a strong foundation in Python, C/C++, and SQL, with practical experience building projects that bridge physical AI, embedded systems, and parallel processing. I love solving complex problems and am constantly exploring the intersections of Deep Learning and IoT.
+The core of this repository is a sleek, dark-themed portfolio designed to showcase my projects and technical capabilities to peers and recruiters alike.
+
+* **Integrated Profile & Background:** Highlights my academic journey as a foundational Data Science student at FAST NUCES.
+* **Curated Project Showcase:** Documents key engineering milestones bridging physical AI, embedded systems, and parallel processing.
+* **Clean UI/UX Design:** Implemented using a modern dark-themed CSS layout designed for clean semantic structuring, smooth responsiveness, and high readability.
+
+---
+
+## 🧠 About Me
+
+I am a first-year Data Science student at **FAST NUCES, Islamabad**. Driven by curiosity, I focus on solving complex problems at the intersection of **Deep Learning, Computer Vision, and IoT**. My foundational strengths lie in Python, C/C++, and SQL, with practical experience building projects that require low-level systems optimization and hardware-software integration. 
+
+---
 
 ## 🛠️ Technical Skills
 
-* **Programming:** Python, C, C++, x86 Assembly, Bash, SQL
-* **AI / ML:** PyTorch, scikit-learn, OpenCV, MediaPipe, CNNs, EDA, Feature Engineering
-* **Web & APIs:** Flask, REST APIs, MQTT, MySQL
-* **Databases & Cloud:** SQL, MySQL, PostgreSQL, MongoDB, Pinecone
-* **Systems & Tools:** Linux/Ubuntu, Git, Makefiles, POSIX threads, IPC
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Python, C, C++, x86 Assembly, Bash, SQL |
+| **AI / Machine Learning** | PyTorch, scikit-learn, OpenCV, MediaPipe, CNNs, EDA, Feature Engineering |
+| **Web & APIs** | Flask, REST APIs, MQTT, MySQL |
+| **Databases & Cloud** | SQL, MySQL, PostgreSQL, MongoDB, Pinecone |
+| **Systems & Tools** | Linux/Ubuntu, Git, Makefiles, POSIX threads, IPC (Inter-Process Communication) |
+
+---
 
 ## 📂 Featured Projects
 
-1. **Smart Dustbin (Physical AI):** A real-time object-tracking vehicle using OpenCV spatial zone detection on Ubuntu connected to an ESP32 via Bluetooth.
-2. **UniSpace:** A University Resource Booking System built using Flask, MySQL, and REST APIs featuring role-based access control.
-3. **Parallel CSV Parser:** A high-performance concurrent parser developed in C utilizing a thread-pool architecture and IPC.
-4. **Study Buddy:** An IoT study assistant using MediaPipe for posture tracking, passing live data over MQTT to an ESP32 server.
-5. **Custom CNN Pipeline:** A robust image classification training pipeline built using PyTorch.
+### 🚗 Smart Dustbin (Physical AI)
+* **Description:** A real-time object-tracking vehicle utilizing OpenCV spatial zone detection on Ubuntu. 
+* **Tech Stack:** OpenCV, Python, Linux (Ubuntu), ESP32, Bluetooth.
+* **Key Feature:** Bridges high-level computer vision with low-level microcontrollers for autonomous reactive physical tracking.
+
+### 🗓️ UniSpace Booking System
+* **Description:** A comprehensive University Resource Booking System designed to streamline campus asset management.
+* **Tech Stack:** Flask, MySQL, REST APIs.
+* **Key Feature:** Secure architecture featuring robust role-based access control (RBAC).
+
+### 🧵 Parallel CSV Parser
+* **Description:** A high-performance concurrent parser built from scratch to process massive datasets efficiently.
+* **Tech Stack:** C, POSIX Threads, IPC.
+* **Key Feature:** Utilizes a custom thread-pool architecture and inter-process communication to bypass standard serial I/O bottlenecks.
+
+### 🧘 Study Buddy (IoT Assistant)
+* **Description:** An intelligent IoT study assistant designed to monitor and improve student productivity and health.
+* **Tech Stack:** MediaPipe, Python, MQTT, ESP32.
+* **Key Feature:** Tracks sitting posture in real-time and pipes live telemetry data over MQTT to an ESP32 server.
+
+### 🖼️ Custom CNN Pipeline
+* **Description:** A robust, end-to-end image classification pipeline.
+* **Tech Stack:** PyTorch, Python.
+* **Key Feature:** Streamlines data preprocessing, augmentation, and model training for efficient deep learning workflows.
 
 ---
 
-## 💻 How to Open the Portfolio
+## 💻 How to View the Portfolio Locally
 
-To view the portfolio locally:
+You can launch and explore this portfolio locally on your machine in just a few steps:
 
-1. Clone this repository:  
-   `git clone https://github.com/Fireguy1/PMW-day1.git`
-2. Navigate into the repository folder.
-3. Open the `index.html` file directly in any modern web browser (Chrome, Edge, Safari, Firefox).
-
----
-
-## ✅ Coursework Progress Checklist
-
-- [x] Set up GitHub profile with a clean bio and picture
-- [x] Create the `PMW-day1` repository
-- [x] Build a polished, semantic `index.html` portfolio page
-- [x] Write a standout `README.md` detailing the PMW Track build
-- [x] Submit repository link for review
+1. **Clone this repository:**
+   ```bash
+   git clone [https://github.com/Fireguy1/PMW-day1.git](https://github.com/Fireguy1/PMW-day1.git)
